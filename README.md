@@ -16,3 +16,7 @@ Swipe from up to down to refresh the page.
 ### Note
 
 I mainly wrote this small app for myself. So don't expect any support or further development.
+
+### Download
+
+[pimatic.apk](https://github.com/dasmaetthes/Pimatic-App/raw/master/pimatic.apk)
