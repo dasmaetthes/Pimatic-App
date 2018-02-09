@@ -10,7 +10,7 @@ Just enter the IP adress of your pimatic installation.
 
 ### Useage
 
-Swipe from left to right opens a navigation meu to enter settings.
+Swipe from left to right opens a navigation menu to enter settings.
 Swipe from up to down to refresh the page.
 
 ### Note
