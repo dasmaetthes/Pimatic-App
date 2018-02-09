@@ -2,11 +2,11 @@
 
 It's a simple app for Pimatic. [What is Pimatic?](https://www.pimatic.org)
 
-Actually it's nothing else then a Webveiw showing the pimatic mobile frontend.
+Actually it's nothing else then a Webview showing the pimatic mobile frontend.
 
 ### Setup
 
-Just enter the IP adress of your pimatic installation.
+Just enter the IP address of your pimatic installation.
 
 ### Useage
 
